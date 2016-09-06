@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM ubuntu:16.04
 MAINTAINER Andrew Wharton <andrew@deciduouspress.com.au>
 
 ENV METEORD_DIR /opt/meteord
